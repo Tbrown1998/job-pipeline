@@ -1,0 +1,9 @@
+apify-client
+python-dotenv
+pandas
+requests
+sentence-transformers
+scikit-learn
+python-docx
+anthropic
+openpyxl
